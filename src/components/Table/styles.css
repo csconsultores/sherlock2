@@ -1,0 +1,64 @@
+:root {
+    Inter: Roboto, Helvetica, sans-serif;
+  }
+
+.Cliente {
+    width: 48px;
+    height: 17px;
+    font-family: var(Inter);
+    font-size: 14px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #a0a0a0; 
+  }
+
+  .Background {
+    padding:12px;
+    width: 880px;
+    height: 93px;
+    border-radius: 6px;
+    box-shadow: 0 6px 15px 0 rgba(212, 220, 226, 0.5), 0 2px 13px -3px rgba(230, 241, 254, 0.5);
+    background-color: #ffffff;
+  }
+
+  .Customer-Name {
+    width: 200px;
+    height: 21px;
+    font-family: var(Inter);
+    font-size: 18px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #3e3a46;
+  }
+
+  .Loan-Amount {
+    width: 118px;
+    height: 21px;
+    font-family: var(Inter);
+    font-size: 18px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #3e3a46;
+  }
+
+  .Loan-Start-Date {
+    width: 101px;
+    height: 21px;
+    font-family: var(Inter);
+    font-size: 18px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #3e3a46;
+  }
